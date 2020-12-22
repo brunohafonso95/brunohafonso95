@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/brunohafonso95/brunohafonso95/master/github-github-com.svg" min-width="400px" max-width="600px" width="400px" align="right" alt="Developer Illustration">
+<img src="https://raw.githubusercontent.com/brunohafonso95/brunohafonso95/master/github-github-com.svg" min-width="600px" max-width="600px" width="600px" align="right" alt="Developer Illustration">
 
 <p align="left"> 
   Hello my name is Bruno Afonso and I work like <strong>Web Developer</strong> using the Javascript Stack.<br>
@@ -6,12 +6,12 @@
 
 <p align="left">
     🦄 Skills: 
-    <strong>Javascript/Typescript</strong>
-    <strong>Html/Css</strong>
+    <strong>JAVASCRIPT/TYPESCRIPT</strong>
+    <strong>HTML/CSS</strong>
     <strong>C#</strong>
-    <strong>Python</strong>
-    <strong>Docker</strong>
-    <strong>Sql/NoSql</strong>
+    <strong>PYTHON</strong>
+    <strong>DOCKER</strong>
+    <strong>SQL/NOSQL</strong>
 </p>
 
 <p align="left">
