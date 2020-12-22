@@ -1,14 +1,23 @@
-### Hi there 👋, My name is Bruno Afonso
-#### I am a nodeJS developer
+<img src="https://raw.githubusercontent.com/brunohafonso95/brunohafonso95/master/github-github-com.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Developer Illustration">
 
-passionate about technology hoping to create amazing things.
+<p align="left"> 
+  Hello my name is Bruno Afonso and i work like <strong>Web Developer</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-Skills:  NODEJS / REACT / JS / TS / HTML / CSS / DEVOPS
+<p align="left">
+  <details>
+    <summary>🦄 Skills:</summary> 
+    <br><strong>Javascript/Typescript</strong>
+    <br><strong>Html/Css</strong>
+    <br><strong>C#</strong>
+    <br><strong>Python</strong>
+    <br><strong>Docker</strong>
+    <br><strong>Sql/NoSql</strong>
+  </details>
+</p>
 
-🔭 I’m currently working on on this page 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brunohafonso95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brunohafonso/)  
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=brunohafonso95&show_icons=true)
-
-![Profile views](https://gpvc.arturio.dev/brunohafonso95)  
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohafonso/" /></a>
+</p>
