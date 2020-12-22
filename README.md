@@ -5,15 +5,13 @@
 </p>
 
 <p align="left">
-  <details>
-    <summary>🦄 Skills:</summary> 
+    🦄 Skills: 
     <br><strong>Javascript/Typescript</strong>
     <br><strong>Html/Css</strong>
     <br><strong>C#</strong>
     <br><strong>Python</strong>
     <br><strong>Docker</strong>
     <br><strong>Sql/NoSql</strong>
-  </details>
 </p>
 
 <p align="left">
