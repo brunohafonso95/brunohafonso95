@@ -6,12 +6,12 @@
 
 <p align="left">
     🦄 Skills: 
-    <br><strong>Javascript/Typescript</strong>
-    <br><strong>Html/Css</strong>
-    <br><strong>C#</strong>
-    <br><strong>Python</strong>
-    <br><strong>Docker</strong>
-    <br><strong>Sql/NoSql</strong>
+    <strong>Javascript/Typescript</strong>
+    <strong>Html/Css</strong>
+    <strong>C#</strong>
+    <strong>Python</strong>
+    <strong>Docker</strong>
+    <strong>Sql/NoSql</strong>
 </p>
 
 <p align="left">
