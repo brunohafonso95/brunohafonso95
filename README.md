@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/brunohafonso95/brunohafonso95/master/github-github-com.svg" min-width="600px" max-width="600px" width="450px" align="right" alt="Developer Illustration">
 
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=brunohafonso95&theme=prussian&show_icons=false)
-
 <p align="left"> 
   Hello my name is Bruno Afonso and I work like <strong>Web Developer</strong> using the Javascript Stack but i love to work with new tools and languages to create awesome things.<br>
 </p>
